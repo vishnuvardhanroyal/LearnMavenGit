@@ -1,0 +1,54 @@
+2019-10-30 08:54:25,977 [main] INFO GenLog - hi welcome to log4j
+2019-10-30 08:54:25,987 [main] WARN GenLog - hi this is warn message
+2019-10-30 08:54:25,987 [main] ERROR GenLog - this is error message
+2019-10-30 08:54:25,988 [main] FATAL GenLog - this is fatal message
+2019-10-30 08:55:05,942 [main] INFO GenLog - hi welcome to log4j
+2019-10-30 08:55:05,950 [main] WARN GenLog - hi this is warn message
+2019-10-30 08:55:05,950 [main] ERROR GenLog - this is error message
+2019-10-30 08:55:05,951 [main] FATAL GenLog - this is fatal message
+2019-10-30 08:56:42,771 [main] INFO GenLog - hi welcome to log4j
+2019-10-30 08:56:42,780 [main] WARN GenLog - hi this is warn message
+2019-10-30 08:56:42,781 [main] ERROR GenLog - this is error message
+2019-10-30 08:56:42,782 [main] FATAL GenLog - this is fatal message
+2019-10-30 09:04:28,177 [main] INFO GenLog - Sheet1 is retrieved
+2019-10-30 09:04:28,200 [main] INFO GenLog - data is retrieved
+2019-10-31 09:35:38,284 [main] INFO GenLog - chrome browser is initiated
+2019-10-31 09:35:39,465 [main] INFO GenLog - browser is maximized
+2019-10-31 09:35:48,435 [main] INFO GenLog - url is launched
+2019-10-31 09:35:48,447 [main] INFO GenLog - implicit wait is initialized
+2019-10-31 09:35:48,508 [main] INFO GenLog - id is retrieved
+2019-10-31 09:35:48,618 [main] INFO GenLog - name is retrieved
+2019-10-31 09:38:59,712 [main] INFO GenLog - chrome browser is initiated
+2019-10-31 09:39:00,860 [main] INFO GenLog - browser is maximized
+2019-10-31 09:39:09,398 [main] INFO GenLog - url is launched
+2019-10-31 09:39:09,412 [main] INFO GenLog - implicit wait is initialized
+2019-10-31 09:39:09,458 [main] INFO GenLog - id is retrieved
+2019-10-31 09:39:09,594 [main] INFO GenLog - name is retrieved
+2019-10-31 09:39:09,713 [main] INFO GenLog - partial link text is retrieved
+2019-10-31 09:47:32,445 [main] INFO GenLog - property file is loaded
+2019-10-31 09:47:36,910 [main] INFO GenLog - chrome browser is initiated
+2019-10-31 09:47:38,049 [main] INFO GenLog - browser is maximized
+2019-10-31 09:47:38,053 [main] INFO GenLog - property file is loaded
+2019-10-31 09:47:46,775 [main] INFO GenLog - url is launched
+2019-10-31 09:47:46,792 [main] INFO GenLog - implicit wait is initialized
+2019-10-31 09:47:46,849 [main] INFO GenLog - id is retrieved
+2019-10-31 09:47:46,980 [main] INFO GenLog - name is retrieved
+2019-10-31 09:47:47,101 [main] INFO GenLog - partial link text is retrieved
+2019-10-31 09:50:26,846 [main] INFO GenLog - property file is loaded
+2019-10-31 09:50:30,692 [main] INFO GenLog - chrome browser is initiated
+2019-10-31 09:50:31,831 [main] INFO GenLog - browser is maximized
+2019-10-31 09:50:31,835 [main] INFO GenLog - property file is loaded
+2019-10-31 09:50:40,500 [main] INFO GenLog - url is launched
+2019-10-31 09:50:40,515 [main] INFO GenLog - implicit wait is initialized
+2019-10-31 09:50:40,573 [main] INFO GenLog - id is retrieved
+2019-10-31 09:50:40,680 [main] INFO GenLog - name is retrieved
+2019-10-31 09:50:40,794 [main] INFO GenLog - partial link text is retrieved
+2019-10-31 09:55:02,333 [main] INFO GenLog - property file is loaded
+2019-10-31 09:55:05,741 [main] INFO GenLog - chrome browser is initiated
+2019-10-31 09:55:06,877 [main] INFO GenLog - browser is maximized
+2019-10-31 09:55:06,881 [main] INFO GenLog - property file is loaded
+2019-10-31 09:55:15,655 [main] INFO GenLog - url is launched
+2019-10-31 09:55:15,668 [main] INFO GenLog - implicit wait is initialized
+2019-10-31 09:55:15,717 [main] INFO GenLog - id is retrieved
+2019-10-31 09:55:15,863 [main] INFO GenLog - name is retrieved
+2019-10-31 09:55:15,992 [main] INFO GenLog - partial link text is retrieved
